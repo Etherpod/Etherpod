@@ -1,6 +1,5 @@
 - Hi, I’m @Etherpod
-- I develop games in Unity, I do modeling and pixel art, and I compose music
-- I'm currently working on an indie game
+- I develop games in Unity, I'm decent at pixel art and 3D art
 - If you want to reach me for some reason, use [etherpod@gmail.com]
 
 <!---
