@@ -1,5 +1,5 @@
 - Hi, I’m @Etherpod
-- I develop games in Unity, I'm decent at pixel art and 3D art
+- I (try to) develop games in Unity, I'm decent at pixel art and 3D art
 - If you want to reach me for some reason, use [etherpod@gmail.com]
 
 <!---
