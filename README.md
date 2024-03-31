@@ -1,6 +1,7 @@
-- Hi, I’m @Etherpod
-- I (try to) develop games in Unity, I'm decent at pixel art and 3D art
-- If you want to reach me for some reason, use [etherpod@gmail.com]
+- Hey, I’m @Etherpod!
+- I have some experience with Unity, C# programming, 3D modeling, and sound design.
+- I've also been working on modding Unity games, mainly Outer Wilds. Check out the game and the unofficial Discord modding server for it!
+- If you want to reach out to me, use [etherpod@gmail.com].
 
 <!---
 Etherpod/Etherpod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
