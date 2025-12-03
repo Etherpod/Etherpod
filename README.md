@@ -1,4 +1,4 @@
 - Hey, I’m @Etherpod!
 - I have experience with C# and Unity, 3D modeling, sound design, and some 2D art.
-- I've created some mods for the game Outer Wilds. If you aren't familiar with the game, definitely go check it out.
+- I primarily do modding for Outer Wilds. If you've never heard of it, you should check it out.
 - If you want to reach out to me, use [etherpod@gmail.com].
